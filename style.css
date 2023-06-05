@@ -1,0 +1,117 @@
+body{
+
+  background-color: rgb(54, 3, 38);
+  width: auto;
+  height: 30px;
+  padding-top: 5px;
+  padding-left: 10px;
+  }
+  a {
+      text-decoration: none;
+      color:rgb(239, 27, 101);
+  }
+  a:hover{
+      background-color:palevioletred;
+      color:rgb(225, 65, 180);
+  }
+  
+  a {
+  
+      text-decoration: none;
+      color: rgb(190, 6, 6);
+  }
+  
+  #banner {
+  width: auto;
+  height: 250px;
+  background-color:rgb(146, 8, 8);
+  
+  
+  }
+  
+  /** criar a classe column( coluna)*/
+  
+  .column{
+   float:left;
+  width: 300px;
+  height:75px;
+  padding:45px;
+  margin-right:50px;
+  margin-left:5px;
+  
+  }
+  .row::after{
+  
+      content: "";
+      display: table;
+      clear: both;
+  
+  
+  }
+  footer{
+      background-color: red;
+      width: auto;
+      height: 30px;
+  }
+
+
+
+ h1{
+color: #f10eb4;
+
+
+ } 
+  
+ Card{
+text-decoration: red ;
+
+
+ }
+
+ p {
+  color: rgb(228, 12, 185);
+}
+.container {
+    margin: 50px auto
+}
+
+.estilizado {
+    background-color: #300720;
+    color: rgb(212, 37, 200);
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .estilizado:hover {
+    background-color: #45a049;
+  }
+  
+  h2{
+  .fonte-grande {
+    font-size: 80px;
+    background-color: rgb(241, 174, 232);
+  }
+}
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
